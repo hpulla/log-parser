@@ -62,7 +62,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>logparser</finalName>
+		<finalName>logparser-openshift-application</finalName>
 	</build>
 
 </project>
